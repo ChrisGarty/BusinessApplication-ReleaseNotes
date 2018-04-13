@@ -47,7 +47,7 @@ interviewers. The status that indicates whether the interviewer accepted or
 declined can be tracked, and the scheduler can decide at any point to share the
 schedule with the candidate.
 
-[A screenshot showing the advanced interview scheduler screen](media/advanced-interview-scheduling-1.png "A screenshot showing the advanced interview scheduler screen")
+![A screenshot showing the advanced interview scheduler screen](media/advanced-interview-scheduling-1.png "A screenshot showing the advanced interview scheduler screen")
 <!-- Talent_Advanced interview scheduling_A.png -->
 
 
