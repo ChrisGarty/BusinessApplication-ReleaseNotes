@@ -40,13 +40,13 @@ On the Job setup page, a hiring manager or recruiter can publish a job to the
 Talent Career site or LinkedIn, and manage other postings to external job
 boards, on separate tiles.
 
-[A screenshot showing a job being posted to a website or social media ](media/company-career-site-public-preview-1.png "A screenshot showing a job being posted to a website or social media ")
+![A screenshot showing a job being posted to a website or social media ](media/company-career-site-public-preview-1.png "A screenshot showing a job being posted to a website or social media ")
 <!-- Talent_Company career site_A.PNG -->
 
 
 Publishing a job to a website
 
-[Job page in the Talent Career site](media/company-career-site-public-preview-2.PNG "Job page in the Talent Career site")
+![Job page in the Talent Career site](media/company-career-site-public-preview-2.PNG "Job page in the Talent Career site")
 <!-- Talent_Company career site_B.PNG -->
 
 

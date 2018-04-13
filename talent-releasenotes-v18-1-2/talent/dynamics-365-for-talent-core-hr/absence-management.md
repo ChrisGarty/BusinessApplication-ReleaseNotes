@@ -24,7 +24,7 @@ audience: Admin
     absence tracking and approvals, while employees can submit time-off requests
     in increments of days or half-days as well as in hours.
 
-[A screenshot showing absence management days support in Talent](media/absence-management-1.png "A screenshot showing absence management days support in Talent")
+![A screenshot showing absence management days support in Talent](media/absence-management-1.png "A screenshot showing absence management days support in Talent")
 <!-- Talent_ Absence Management - Days Support_A.png -->
 
 

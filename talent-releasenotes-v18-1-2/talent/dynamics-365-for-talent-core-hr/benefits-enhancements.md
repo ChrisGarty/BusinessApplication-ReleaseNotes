@@ -31,7 +31,7 @@ audience: Admin
 
 
 
-[A screenshot showing benefits open enrollment in Talent](media/benefits-enhancements-1.png "A screenshot showing benefits open enrollment in Talent")
+![A screenshot showing benefits open enrollment in Talent](media/benefits-enhancements-1.png "A screenshot showing benefits open enrollment in Talent")
 <!-- Talent_Benefits Enhancements_A.png -->
 
 

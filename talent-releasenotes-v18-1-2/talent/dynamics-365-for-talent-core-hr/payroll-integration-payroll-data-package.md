@@ -32,7 +32,7 @@ manually to other payroll providers.
     and then export the data package to any file storage location that their
     payroll software can access.
 
-[A diagram showing the flow of integration between Talent and Ceridian](media/payroll-integration-payroll-data-package-1.png "A diagram showing the flow of integration between Talent and Ceridian")
+![A diagram showing the flow of integration between Talent and Ceridian](media/payroll-integration-payroll-data-package-1.png "A diagram showing the flow of integration between Talent and Ceridian")
 <!-- Talent_Payroll integration - Payroll data package_A.png -->
 
 

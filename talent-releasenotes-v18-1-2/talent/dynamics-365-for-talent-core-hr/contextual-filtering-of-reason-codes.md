@@ -23,7 +23,7 @@ accuracy and providing better analytics for all processes that use reason codes.
 It also makes hire, transfer, and termination processes more efficient by
 displaying only the reason codes that are appropriate for the process.
 
-[A screenshot showing the filtering of reason codes](media/contextual-filtering-of-reason-codes-1.png "A screenshot showing the filtering of reason codes")
+![A screenshot showing the filtering of reason codes](media/contextual-filtering-of-reason-codes-1.png "A screenshot showing the filtering of reason codes")
 <!-- Talent_Contextual filtering of reason codes_A.PNG -->
 
 
