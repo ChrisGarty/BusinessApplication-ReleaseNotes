@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Project Service Automation
 
+[!include[banner](../../../includes/banner.md)]
+
+
 The Project Service Automation reports focus on information that’s critical to a
 Practice Manager, Resource Manager, and Account Manager. The app provides
 tailored reporting and insights for each role:

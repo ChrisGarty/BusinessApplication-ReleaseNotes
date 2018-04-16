@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Attachments
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 All attachments associated with hire requests are transferred to an employee

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### GDPR and accessibility 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The customer data sent to and processed by Dynamics 365 Portal can be configured

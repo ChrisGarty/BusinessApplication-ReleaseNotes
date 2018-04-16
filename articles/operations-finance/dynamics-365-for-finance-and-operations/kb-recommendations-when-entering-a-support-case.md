@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### KB recommendations when entering a support case
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 When a user creates a support case, the LCS support workflow populates possible

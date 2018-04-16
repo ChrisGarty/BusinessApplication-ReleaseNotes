@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Salesforce.com template
 
+[!include[banner](../../includes/banner.md)]
+
+
 With the Salesforce.com template, you can build an app on the Common Data
 Service for Apps that combines data from Salesforce.com and Dynamics 365 to
 provide a 360-degree view of your business.

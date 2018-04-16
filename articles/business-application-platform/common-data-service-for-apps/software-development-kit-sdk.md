@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Software Development Kit (SDK)
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The SDK includes an architectural overview of the Common Data Service for Apps,

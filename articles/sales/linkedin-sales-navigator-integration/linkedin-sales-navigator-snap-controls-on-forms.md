@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### LinkedIn Sales Navigator (SNAP) controls on forms
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 With LinkedIn Sales Navigator integration, business analysts and system

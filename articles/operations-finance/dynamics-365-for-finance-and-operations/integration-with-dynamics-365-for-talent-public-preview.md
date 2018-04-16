@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Integration with Dynamics 365 for Talent (Public Preview)
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Finance and Operations customers can use Dynamics 365 for Talent to manage their

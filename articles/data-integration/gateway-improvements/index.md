@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Gateway improvements
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 With the on-premises data gateway, you can refresh queries that combine and

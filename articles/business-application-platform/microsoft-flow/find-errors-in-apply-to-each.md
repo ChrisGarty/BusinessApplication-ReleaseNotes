@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Find errors in apply to each
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 We recently increased the limits for Apply to each, which means you can have

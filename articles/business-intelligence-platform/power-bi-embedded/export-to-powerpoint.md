@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Export to PowerPoint
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Use APIs to enable the application to export the embedded object to PowerPoint.

@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Synchronization of device conditions and properties with device twins 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Connected Field Service includes a representation of customer assets and devices

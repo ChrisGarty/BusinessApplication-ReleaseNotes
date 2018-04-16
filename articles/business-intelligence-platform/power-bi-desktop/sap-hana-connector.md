@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### SAP HANA connector
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 By default, the SAP HANA connector treats SAP HANA as a multi-dimensional

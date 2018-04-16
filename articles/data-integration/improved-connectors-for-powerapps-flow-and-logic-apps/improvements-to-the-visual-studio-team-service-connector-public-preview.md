@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Improvements to the Visual Studio Team Service connector (Public Preview)
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 -   New action to query work items

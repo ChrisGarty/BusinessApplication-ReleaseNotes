@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Available on German datacenters
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Power BI Embedded is available on the German datacenters as other Azure

@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Step Two
 
+[!include[banner](../../../includes/banner.md)]
+
+
 After you have built your flow and collected the data you need, add
 the **Respond to PowerApps** action. In this action, define the output fields
 you want to provide to PowerApps. Name each field, and select Add Dynamic

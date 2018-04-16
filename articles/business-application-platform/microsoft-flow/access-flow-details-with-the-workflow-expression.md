@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Access flow details with the workflow() expression
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The last feature we added is a new output property called **tags** to

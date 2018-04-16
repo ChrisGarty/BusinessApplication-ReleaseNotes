@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Canvas tooltips (Public Preview)
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Using Canvas tooltips, you can design a report page as a custom tooltip for

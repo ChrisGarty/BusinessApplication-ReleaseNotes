@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Power BI for Sales Insights
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The Power BI for Sales Insights app brings in key entities from either

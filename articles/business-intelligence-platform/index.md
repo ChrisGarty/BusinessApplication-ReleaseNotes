@@ -16,6 +16,9 @@ audience: Admin
 Business Intelligence Platform
 ==============================
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 Organizations can use Power BI to translate a wealth of data into actionable

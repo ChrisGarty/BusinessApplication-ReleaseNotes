@@ -16,6 +16,9 @@ audience: Admin
 Data Integration
 ================
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 Data Integration provides the connectors and gateways that make it possible to

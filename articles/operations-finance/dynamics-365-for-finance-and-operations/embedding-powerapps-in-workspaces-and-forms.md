@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Embedding PowerApps in workspaces and forms
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 We have added support for embedding PowerApps in Finance and Operations

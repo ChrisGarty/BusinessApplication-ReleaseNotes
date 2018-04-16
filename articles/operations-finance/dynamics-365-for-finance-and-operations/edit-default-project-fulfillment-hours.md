@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Edit default project fulfillment hours 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The project resource manager can view and edit the default hours as part of the

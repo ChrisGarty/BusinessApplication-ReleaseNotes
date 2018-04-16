@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### PowerShell commands library for the on-premises data gateway (Public Preview)
 
+[!include[banner](../../includes/banner.md)]
+
+
 The on-premises data gateway PowerShell cmdlets are available in the [public
 PowerShell
 gallery](https://www.powershellgallery.com/packages/OnPremisesDataGatewayMgmt/1.0.0-beta1).

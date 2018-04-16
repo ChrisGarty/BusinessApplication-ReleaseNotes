@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Manufacturing
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 With **Premium licensing**, you get access to manufacturing capabilities.

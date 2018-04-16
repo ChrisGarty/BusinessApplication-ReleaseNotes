@@ -15,4 +15,7 @@ audience: Admin
 ---
 ### Extensibility
 
+[!include[banner](../../includes/banner.md)]
+
+
 

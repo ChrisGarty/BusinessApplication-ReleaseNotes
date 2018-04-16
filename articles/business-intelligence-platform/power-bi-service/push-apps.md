@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Push apps
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 You can automatically install apps that people use for work in

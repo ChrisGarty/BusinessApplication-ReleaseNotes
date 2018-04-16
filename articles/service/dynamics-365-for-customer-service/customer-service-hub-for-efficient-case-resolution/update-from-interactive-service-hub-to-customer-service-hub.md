@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Update from Interactive Service Hub to Customer Service Hub
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 Interactive Service Hub is a web-based customer service application included

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Contextual filtering of reason codes
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 This feature lets users configure reason codes for hire, transfer, termination,

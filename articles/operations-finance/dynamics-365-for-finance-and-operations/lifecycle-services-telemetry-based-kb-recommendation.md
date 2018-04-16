@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Lifecycle Services: Telemetry-based KB recommendation
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 LCS has been extended to include telemetry-driven KB recommendations to

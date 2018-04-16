@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Ask Top N questions in Q&A
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Use ad hoc analysis in Q&A to ask Top N questions, such as “What are my top 10

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Capacity API
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Use capacity APIs to assign or remove workspaces to capacities, and get a list

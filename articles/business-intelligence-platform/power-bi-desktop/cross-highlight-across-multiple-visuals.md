@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Cross-highlight across multiple visuals
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Users can multi-select data points across visuals to apply cross-highlighting.

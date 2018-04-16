@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Themes support 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 With **report themes,** you can apply a color theme to your entire report, such

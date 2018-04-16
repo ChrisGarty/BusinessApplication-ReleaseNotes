@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Persistent filters
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Power BI persistent filters save users’ slicer and filter values, and

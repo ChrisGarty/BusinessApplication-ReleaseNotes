@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Data source setup improvements
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Data source setup improvements make it easier to configure gateways and diagnose

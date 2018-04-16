@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### See details of a flow you run
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 When you run a flow that has been shared with you, you can now see details of

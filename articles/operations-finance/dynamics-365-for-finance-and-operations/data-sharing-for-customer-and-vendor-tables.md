@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Data sharing for customer and vendor tables
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 You can share the customer and vendor tables and many related tables across

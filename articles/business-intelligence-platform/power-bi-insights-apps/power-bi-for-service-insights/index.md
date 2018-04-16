@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Power BI for Service Insights
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 The Power BI for Service insights app provides out-of-the-box analytics for

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Power BI for mixed reality (Public Preview)
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 A preview release of Power BI for Mixed Reality targeted to first line task

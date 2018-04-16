@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Immediate replenishment of locations
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Immediate replenishment is used during wave execution if allocation fails for a

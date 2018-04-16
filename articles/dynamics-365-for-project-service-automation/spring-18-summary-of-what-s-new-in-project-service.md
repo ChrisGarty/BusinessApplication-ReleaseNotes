@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Spring ’18 summary of what’s new in Project Service
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 | April ’18 – Private Preview                                                                                                                                                                                                                                   |

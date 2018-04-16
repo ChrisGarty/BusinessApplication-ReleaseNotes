@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Field Service app enhancements
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The Field Service app works in tandem with the customer service application to

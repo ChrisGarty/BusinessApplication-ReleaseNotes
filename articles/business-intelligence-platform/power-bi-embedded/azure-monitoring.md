@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Azure monitoring
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 To optimize the use of an Azure resource in Power BI Embedded, we are adding the

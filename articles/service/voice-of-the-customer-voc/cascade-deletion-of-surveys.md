@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Cascade deletion of surveys 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 When a user deletes a survey, the dependent entities of the survey are also

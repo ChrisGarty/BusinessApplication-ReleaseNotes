@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Run as a simulation 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The admin can run a schedule on demand as a simulation, which results in

@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Individual customizations
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 You can personalize Dynamics 365 Business Central by, for example, adding or

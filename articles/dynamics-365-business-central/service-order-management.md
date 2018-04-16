@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Service order management 
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 With **Premium licensing**, you get access to service management capabilities.

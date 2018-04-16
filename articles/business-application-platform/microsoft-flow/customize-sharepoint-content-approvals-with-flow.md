@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Customize SharePoint content approvals with Flow
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 For any modern SharePoint page libraries, site administrators and owners can

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Easy setup with guided first-run experience
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Get started quickly with Dynamics 365 for Marketing, whether you set up a trial

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Quick measures
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The quick measures feature is generally available, and it no longer requires the

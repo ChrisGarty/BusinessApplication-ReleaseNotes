@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Phone optimization for embedded reports
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Developers who build custom mobile applications can use the phone optimized

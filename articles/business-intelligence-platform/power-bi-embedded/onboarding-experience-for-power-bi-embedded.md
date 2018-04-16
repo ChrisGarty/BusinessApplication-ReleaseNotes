@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Onboarding experience for Power BI Embedded 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Setting up a new environment to develop and deploy Power BI Embedded involved

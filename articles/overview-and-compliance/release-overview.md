@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Release overview
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 We’re thrilled to announce our Spring ’18 release, which delivers significant

@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Configuration of device properties and commands through device categories
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 When IoT devices are registered, connected, and configured in Azure IoT hub,

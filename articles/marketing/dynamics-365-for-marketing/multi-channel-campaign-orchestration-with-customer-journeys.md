@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Multi-channel campaign orchestration with customer journeys
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Create automated multichannel campaigns using the graphical and extensible

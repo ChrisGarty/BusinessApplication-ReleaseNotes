@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Event management
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The Marketing application features comprehensive event management, which helps

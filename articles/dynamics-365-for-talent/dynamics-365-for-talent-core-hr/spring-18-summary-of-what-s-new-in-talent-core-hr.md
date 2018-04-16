@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Spring ’18 summary of what’s new in Talent – Core HR
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 | January ’18 - General Availability                                                                                                                                                                                                 |

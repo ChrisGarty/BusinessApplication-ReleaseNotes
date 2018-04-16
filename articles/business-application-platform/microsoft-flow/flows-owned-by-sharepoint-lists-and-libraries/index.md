@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Flows “owned by” SharePoint lists and libraries
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 Until recently, flows could be shared only with individuals or Azure Active

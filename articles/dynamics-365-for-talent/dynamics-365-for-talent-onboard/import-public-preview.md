@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Import (Public Preview)
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Hiring managers can import content from other guides or templates to ensure that

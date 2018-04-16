@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Calculated and rollup fields
 
+[!include[banner](../../includes/banner.md)]
+
+
 [!INCLUDE[banner](../../includes/banner.md)]
 
 

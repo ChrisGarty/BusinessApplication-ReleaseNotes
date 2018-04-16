@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Improved app sharing experience 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 **Canvas apps.** With the improved app sharing experience for canvas apps, you

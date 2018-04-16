@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Custom fields
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Although Finance and Operations provides an extensive set of fields out of the

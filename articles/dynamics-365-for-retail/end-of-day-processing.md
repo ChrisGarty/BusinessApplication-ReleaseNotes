@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### End-of-day processing
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 End-of-day processing is a crucial element of retail operational workflow. This

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Content creation
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Create modern online content, including visually rich email messages, landing

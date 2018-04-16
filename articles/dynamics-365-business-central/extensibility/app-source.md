@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### App Source
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Within Dynamics 365 Business Central, you can find apps on App Source that bring

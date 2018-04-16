@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Repair recommendations sent in email for failed flows
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Enable email notifications to detect flow failures. To enable this feature, go

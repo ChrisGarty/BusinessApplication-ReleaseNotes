@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Integration with Finance and Operations 7.2 and 7.3 (Public Preview)
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 In March, we enabled a connected story for Dynamics customers who are operating

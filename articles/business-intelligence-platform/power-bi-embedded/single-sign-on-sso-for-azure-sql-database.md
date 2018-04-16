@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Single sign-on (SSO) for Azure SQL database
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Power BI Embedded has no awareness and information about the application’s user.

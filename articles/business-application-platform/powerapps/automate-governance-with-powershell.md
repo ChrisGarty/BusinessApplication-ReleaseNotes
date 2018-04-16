@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Automate governance with PowerShell
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The new [PowerShell admin cmdlets](https://powerapps.microsoft.com/blog/)

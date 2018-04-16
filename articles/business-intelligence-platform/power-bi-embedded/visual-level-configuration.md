@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Visual level configuration
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Control the experience and functionalities on a visual that is exposed to users.

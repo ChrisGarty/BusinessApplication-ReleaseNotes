@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Rehire flag
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 When completing the termination process, workers can now be flagged if they are

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Templates (Public Preview)
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Starting in April, you can use the Salesforce.com, Field Service Integration,

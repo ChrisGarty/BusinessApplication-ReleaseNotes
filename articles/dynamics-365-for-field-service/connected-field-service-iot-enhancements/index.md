@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Connected Field Service (IoT) enhancements
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Connected Field Service helps service organizations proactively detect,

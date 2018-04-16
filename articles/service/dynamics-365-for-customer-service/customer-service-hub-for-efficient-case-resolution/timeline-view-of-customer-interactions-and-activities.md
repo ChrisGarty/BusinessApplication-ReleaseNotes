@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Timeline view of customer interactions and activities 
 
+[!include[banner](../../../includes/banner.md)]
+
+
 Capture customer interactions and communications by adding them as activities in
 the timeline section of the dashboard. The timeline section presents a unified
 view of everything that has happened with a case, such as email received,

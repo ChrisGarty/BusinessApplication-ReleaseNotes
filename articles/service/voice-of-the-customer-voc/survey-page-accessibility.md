@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Survey page accessibility 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The portal used by survey respondents to submit their responses is accessible

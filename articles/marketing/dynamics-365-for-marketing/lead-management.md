@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Lead management
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Use landing pages to invite contacts to register with your organization and

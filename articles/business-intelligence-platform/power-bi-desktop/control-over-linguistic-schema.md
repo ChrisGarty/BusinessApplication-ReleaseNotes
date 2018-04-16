@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Control over linguistic schema
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 To improve the results of Q&A for users across Power BI Desktop and Power BI

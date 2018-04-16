@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Improved entity creation and customization 
 
+[!include[banner](../../includes/banner.md)]
+
+
 [!INCLUDE[banner](../../includes/banner.md)]
 
 

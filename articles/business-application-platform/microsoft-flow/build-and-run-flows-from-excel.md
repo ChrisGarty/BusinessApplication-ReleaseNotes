@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Build and run flows from Excel
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 With the new Flow button, create and trigger automations from Flow on your table

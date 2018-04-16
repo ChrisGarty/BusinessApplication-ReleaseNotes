@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Improved delivery of platform and financial reporting updates
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Starting April 1, 2018, platform and financial reporting updates will be

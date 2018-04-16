@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Report production outage
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 This feature is available to customers who have purchased Finance and Operations

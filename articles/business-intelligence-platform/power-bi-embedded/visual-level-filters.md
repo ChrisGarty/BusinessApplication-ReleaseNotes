@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Visual level filters
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Additional APIs are available to support get, set, and remove filters on the

@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### New connectors for Public Preview
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 -   HDInsight Interactive Query

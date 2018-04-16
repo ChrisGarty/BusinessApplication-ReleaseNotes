@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### On-premises deployment updates
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 In the Spring '18 release timeframe, releases (for new deployments) include:

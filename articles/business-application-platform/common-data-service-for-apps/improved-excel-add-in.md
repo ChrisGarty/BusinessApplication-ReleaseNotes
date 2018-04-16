@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Improved Excel add-in 
 
+[!include[banner](../../includes/banner.md)]
+
+
 [!INCLUDE[banner](../../includes/banner.md)]
 
 

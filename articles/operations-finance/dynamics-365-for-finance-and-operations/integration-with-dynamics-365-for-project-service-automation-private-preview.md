@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Integration with Dynamics 365 for Project Service Automation (Private Preview)
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The Project Service Automation to Finance and Operations integration solution

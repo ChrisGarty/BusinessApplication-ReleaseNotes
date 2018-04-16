@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Extensible through Azure
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 Common Data Service for Analytics storage is open, which means you can leverage

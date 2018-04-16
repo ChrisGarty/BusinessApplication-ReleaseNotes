@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Responsive Visualization optimized for phone layout
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Power BI is providing more ways to create experiences optimized for devices of

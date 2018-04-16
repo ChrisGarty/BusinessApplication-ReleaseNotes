@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Customizable welcome emails
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Managers can personalize the welcome email sent to their new hires when it’s

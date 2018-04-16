@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Renewal of authentication key
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Dynamics 365 Portal connects to an organization using an authentication key

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Share and favorite reports
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 When you share a dashboard, related resources added to the dashboard are also

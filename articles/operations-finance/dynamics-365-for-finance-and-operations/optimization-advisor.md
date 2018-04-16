@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Optimization advisor
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Optimization advisor provides added visibility and intelligence in your business

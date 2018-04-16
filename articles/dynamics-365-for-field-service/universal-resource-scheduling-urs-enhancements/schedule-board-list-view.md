@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Schedule board list view
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Interact with the schedule board using a list view to see data in a more

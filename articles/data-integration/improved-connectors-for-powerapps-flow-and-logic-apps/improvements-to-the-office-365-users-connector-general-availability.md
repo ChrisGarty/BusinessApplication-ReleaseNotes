@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Improvements to the Office 365 Users connector (General Availability)
 
+[!include[banner](../../includes/banner.md)]
+
+
 -   New action to update the user profile
 
 -   New action to update the user photo

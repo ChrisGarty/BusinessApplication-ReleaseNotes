@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Default dates
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Dates are no longer completed by default for hire, transfer, and termination

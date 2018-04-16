@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Extensible scope 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The Resource Scheduling Optimization solution uses scope to define the input for

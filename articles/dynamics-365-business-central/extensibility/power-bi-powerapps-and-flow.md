@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Power BI, PowerApps, and Flow
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Dynamics 365 Business Central comes with easy integration with Power BI,

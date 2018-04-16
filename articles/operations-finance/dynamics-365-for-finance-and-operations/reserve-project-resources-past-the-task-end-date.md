@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Reserve project resources past the task end date
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 At times, the project resource manager might not have resources available to

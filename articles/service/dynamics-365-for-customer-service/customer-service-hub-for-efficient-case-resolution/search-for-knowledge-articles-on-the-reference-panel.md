@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Search for knowledge articles on the reference panel
 
+[!include[banner](../../../includes/banner.md)]
+
+
 Reference panel tabs allow agents to quickly find related records, or search
 knowledge articles for accounts, contacts, cases, and other knowledge articles.
 

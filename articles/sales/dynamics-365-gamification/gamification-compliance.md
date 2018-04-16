@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Gamification compliance
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 With the Spring ’18 release, investments address General Data Protection

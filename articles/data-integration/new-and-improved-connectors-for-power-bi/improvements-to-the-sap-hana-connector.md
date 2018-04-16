@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Improvements to the SAP HANA connector
 
+[!include[banner](../../includes/banner.md)]
+
+
 -   Multidimensional DirectQuery connector (General Availability)
 
 -   HANA SSL certificate validation support

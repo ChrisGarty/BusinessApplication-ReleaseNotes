@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Metadata-driven responsive user experiences
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 Model-driven apps are responsive across different form factors and devices,

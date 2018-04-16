@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Incremental refresh policies
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 You can design refresh policies in Power BI Desktop to determine how data is

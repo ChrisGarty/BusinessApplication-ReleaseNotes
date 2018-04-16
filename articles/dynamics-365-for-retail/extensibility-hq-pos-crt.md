@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Extensibility (HQ, POS, CRT)
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 Most customers customize our product to support their business process. We made

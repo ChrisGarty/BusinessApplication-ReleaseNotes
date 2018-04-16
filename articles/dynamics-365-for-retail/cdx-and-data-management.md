@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### CDX and data management
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 Retail organizations often find it challenging to maintain connectivity

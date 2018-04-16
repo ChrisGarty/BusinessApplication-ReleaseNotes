@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Apps connected to SharePoint can include attachments
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Apps connected to a SharePoint list with attachments can now both read and write

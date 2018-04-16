@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Work breakdown structure (WBS) editable grid with Gantt visualization 
 
+[!include[banner](../../includes/banner.md)]
+
+
 The Spring '18 release introduces an editable grid with a Gantt visualization
 experience for the work breakdown structure (WBS), and removes the restriction
 that requires upfront booking of named resources to the project team before

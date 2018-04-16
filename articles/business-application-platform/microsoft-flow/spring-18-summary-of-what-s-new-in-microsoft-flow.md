@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Spring '18 summary of what’s new in Microsoft Flow
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 | April '18 - General Availability                                                             |

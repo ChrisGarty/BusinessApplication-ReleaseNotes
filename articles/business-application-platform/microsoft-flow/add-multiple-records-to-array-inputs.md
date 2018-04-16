@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Add multiple records to array inputs
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 There are many actions in Flow that take an array as an input. For example,

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Get data APIs 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Users can interact with visuals embedded within an application by setting

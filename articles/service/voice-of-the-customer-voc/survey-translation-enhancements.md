@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Survey translation enhancements
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Survey translation files are validated for any missing translated strings or

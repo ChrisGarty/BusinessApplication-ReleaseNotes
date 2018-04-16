@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Supply chain management
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 **Sales order management**

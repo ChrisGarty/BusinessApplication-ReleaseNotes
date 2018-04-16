@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Conditional Formatting Based on Another Column
 
+[!include[banner](../../includes/banner.md)]
+
+
 The table and matrix visuals in Power BI will now support conditional formatting
 based on another column, even if that column isn’t being used in the visual
 itself. This will allow more flexibility with conditional formatting and even

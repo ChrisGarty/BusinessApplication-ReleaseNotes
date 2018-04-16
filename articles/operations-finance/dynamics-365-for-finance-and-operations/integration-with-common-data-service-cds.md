@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Integration with Common Data Service (CDS)
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Dynamics 365 for Finance and Operations has enabled cross-application business

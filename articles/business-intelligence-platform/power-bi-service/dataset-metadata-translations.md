@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Dataset metadata translations
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Power BI users see dataset fields in their client locale or language when

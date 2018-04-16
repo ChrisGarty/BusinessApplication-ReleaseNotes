@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Persistent filters
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Users expect continuity in the work. Therefore, when visiting a report in

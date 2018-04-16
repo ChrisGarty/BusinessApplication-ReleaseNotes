@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Report level slicers
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Report authors can use slicers that sync across pages, and update visuals across

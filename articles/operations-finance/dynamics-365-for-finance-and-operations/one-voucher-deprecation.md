@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### One voucher deprecation
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The existing functionality for financial journals (general journal, fixed asset

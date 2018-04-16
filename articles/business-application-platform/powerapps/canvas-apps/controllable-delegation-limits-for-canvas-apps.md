@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Controllable delegation limits for canvas apps
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 Users can now control delegation limits for non-delegable data sources that have

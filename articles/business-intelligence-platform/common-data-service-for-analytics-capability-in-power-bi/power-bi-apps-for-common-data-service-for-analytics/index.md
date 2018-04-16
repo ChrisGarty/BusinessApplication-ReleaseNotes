@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Power BI apps for Common Data Service for Analytics 
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 Common Data Service for Analytics users install out-of-the-box Power BI

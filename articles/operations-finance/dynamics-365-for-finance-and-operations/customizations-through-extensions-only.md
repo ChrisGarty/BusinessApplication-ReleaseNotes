@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Customizations through extensions only
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 In the Spring '18 release, we’ve continued our work to allow our application

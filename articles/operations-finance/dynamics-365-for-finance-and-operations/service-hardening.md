@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Service hardening
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 We have added service monitoring and alerting for core business processes, and

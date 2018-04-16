@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Common Data Service for Analytics in Power BI (Public Preview)
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 Common Data Service for Analytics expands Power BI to provide a self-service

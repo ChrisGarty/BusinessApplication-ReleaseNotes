@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### External sharing
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Users can share reports and dashboards with users external to their tenant. This

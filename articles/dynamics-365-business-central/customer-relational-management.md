@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Customer relational management 
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 **Contacts**

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Partial shipment of a load (split load)
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 This functionality supports scenarios where load planning from a transportation

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Integration with Dynamics 365 for Field Service
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Data integration supports scenarios where Field Service activities are done

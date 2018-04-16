@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Azure Active Directory authentication
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Connect to Azure SQL database and Azure Data Warehouse by using Azure Active

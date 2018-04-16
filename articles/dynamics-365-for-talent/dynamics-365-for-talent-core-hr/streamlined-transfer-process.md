@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Streamlined transfer process
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 When transferring an employee, you can filter by position, and the job is

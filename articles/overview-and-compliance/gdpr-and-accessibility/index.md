@@ -16,4 +16,7 @@ audience: Admin
 GDPR and accessibility
 ======================
 
+[!include[banner](../../includes/banner.md)]
+
+
 

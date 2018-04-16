@@ -16,4 +16,7 @@ audience: Admin
 Media Platform 
 ===============
 
+[!include[banner](../includes/banner.md)]
+
+
 

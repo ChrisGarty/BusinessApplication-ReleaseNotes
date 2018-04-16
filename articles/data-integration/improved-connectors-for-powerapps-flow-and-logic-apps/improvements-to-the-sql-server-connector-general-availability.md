@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Improvements to the SQL Server connector (General Availability)
 
+[!include[banner](../../includes/banner.md)]
+
+
 -   Performance improvements and increased throttling for shared connections in
     PowerApps
 

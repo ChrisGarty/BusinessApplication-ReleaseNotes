@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Performance reporting for Power BI Premium
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Organizations can use performance reporting for Power BI Premium to understand

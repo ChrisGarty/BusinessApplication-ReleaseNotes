@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### How to use these release notes
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 These release notes provide descriptions of new and enhanced capabilities in

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Voice of the Customer analytics using Power BI 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The Voice of the Customer Analytics content pack for Power BI enables

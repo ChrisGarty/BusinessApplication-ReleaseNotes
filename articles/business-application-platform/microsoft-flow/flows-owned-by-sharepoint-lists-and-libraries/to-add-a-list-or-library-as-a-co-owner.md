@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### To add a list or library as a co-owner
 
+[!include[banner](../../../includes/banner.md)]
+
+
 For a flow that uses a SharePoint action (for example, when an item is added or
 modified):
 

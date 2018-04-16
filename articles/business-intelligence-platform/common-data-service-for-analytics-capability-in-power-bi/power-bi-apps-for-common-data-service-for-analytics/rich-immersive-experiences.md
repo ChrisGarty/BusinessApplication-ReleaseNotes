@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Rich, immersive experiences 
 
+[!include[banner](../../../includes/banner.md)]
+
+
 Power BI apps come with natural language query support. Users ask questions in
 the app or in Cortana to get immediate insights.
 

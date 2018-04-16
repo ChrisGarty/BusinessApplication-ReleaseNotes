@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Phased embedding
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Load the embedded content in the background to improve performance and get

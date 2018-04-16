@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Mobile layout support
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Reports and dashboard support layouts are optimized to consume on mobile

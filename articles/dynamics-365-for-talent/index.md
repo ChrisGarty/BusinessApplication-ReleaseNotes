@@ -16,4 +16,7 @@ audience: Admin
 Talent
 ======
 
+[!include[banner](../includes/banner.md)]
+
+
 

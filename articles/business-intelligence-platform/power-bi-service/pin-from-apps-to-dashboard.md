@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Pin from apps to dashboard
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 You can use dashboards to combine information from other shared dashboards,

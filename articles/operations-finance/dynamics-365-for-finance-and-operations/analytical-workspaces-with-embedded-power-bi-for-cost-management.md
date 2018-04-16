@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Analytical workspaces with embedded Power BI for Cost management
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 If you are an Operations Manager or a cost accountant who wants to optimize your

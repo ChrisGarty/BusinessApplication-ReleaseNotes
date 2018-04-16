@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### GDPR and accessibility
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 General Data Protection Regulation (GDPR) investments address the European

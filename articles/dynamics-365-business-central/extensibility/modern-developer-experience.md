@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Modern developer experience
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 By using Visual Studio Code, you can build powerful extensions in a modern

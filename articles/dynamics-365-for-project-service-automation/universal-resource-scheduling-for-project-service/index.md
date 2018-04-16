@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Universal Resource Scheduling for Project Service 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The Project Service app builds on the Universal Resource Scheduling solution to

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Personalize surveys by dynamically adding customer responses into questions 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Personalize a survey by inserting the response to a question into subsequent

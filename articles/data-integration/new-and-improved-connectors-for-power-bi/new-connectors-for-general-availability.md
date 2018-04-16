@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### New connectors for General Availability
 
+[!include[banner](../../includes/banner.md)]
+
+
 -   Adobe Analytics
 
 -   Azure Analysis Services

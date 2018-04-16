@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Dashboards 
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 Create rich, interactive dashboards to visualize data from the Common Data

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Visio custom visuals
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 You can use the Visio custom visual to visualize data using Microsoft Visio

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Custom layout
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 You can use custom layout to set and change the size of a report page layout or

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Azure load monitoring
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Expanding the available metrics to monitor the consumption of a resource in

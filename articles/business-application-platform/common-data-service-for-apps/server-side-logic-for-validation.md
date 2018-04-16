@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Server-side logic for validation
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Business rules on Common Data Service for Apps entities make it possible to

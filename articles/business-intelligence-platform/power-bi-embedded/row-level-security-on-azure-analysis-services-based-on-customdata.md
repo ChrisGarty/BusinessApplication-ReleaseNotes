@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Row-level security on Azure Analysis Services based on CustomData
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Use row-level security and filter data based on the CustomData function in Azure

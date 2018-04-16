@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Translation Service enhancements
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Dynamics Translation Service (DTS) allows ISVs and partners to translate

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Searchable attachments for knowledge articles
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Knowledge article attachments are searchable to increase the likelihood of

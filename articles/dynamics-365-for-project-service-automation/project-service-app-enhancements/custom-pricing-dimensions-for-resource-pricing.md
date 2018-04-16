@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Custom pricing dimensions for resource pricing
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 To maximize flexibility to meet different business requirements, the updated

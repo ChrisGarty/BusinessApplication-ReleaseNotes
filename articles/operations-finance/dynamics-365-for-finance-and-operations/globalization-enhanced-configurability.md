@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Globalization – Enhanced configurability
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Configurability of globalization features lets partners and customers do

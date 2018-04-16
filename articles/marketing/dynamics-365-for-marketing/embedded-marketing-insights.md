@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Embedded marketing insights
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The system continuously collects customer-interaction data, keeps records of

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Larger node sizes in Power BI Premium
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The Power BI Premium P4 and P5 nodes allow you to run larger workloads on

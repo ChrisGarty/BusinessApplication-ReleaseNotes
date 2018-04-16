@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Absence management
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 -   **“Days” support:** In many organizations, especially in European markets,

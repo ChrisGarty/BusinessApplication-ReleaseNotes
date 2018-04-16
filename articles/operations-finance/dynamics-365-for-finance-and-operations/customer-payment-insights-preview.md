@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Customer payment insights (Preview)
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Organizations often find it challenging to predict when a customer will pay

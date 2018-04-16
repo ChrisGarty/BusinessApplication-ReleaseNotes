@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Enforce skill level  
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Resource requirements can include not only a skill, but also the level (or

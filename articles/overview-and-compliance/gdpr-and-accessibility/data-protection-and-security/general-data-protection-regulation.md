@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### General Data Protection Regulation
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 In May 2018, a European privacy law, the General Data Protection Regulation

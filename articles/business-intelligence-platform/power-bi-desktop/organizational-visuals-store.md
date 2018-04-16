@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Organizational visuals store 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Power BI admins can deploy visuals as part of an organizational repository.

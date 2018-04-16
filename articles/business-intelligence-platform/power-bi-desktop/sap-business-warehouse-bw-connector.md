@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### SAP Business Warehouse (BW) connector 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The DirectQuery mode for SAP Business Warehouse (BW) is generally available. For

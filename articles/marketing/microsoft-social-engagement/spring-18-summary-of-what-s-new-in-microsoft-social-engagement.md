@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Spring ’18 summary of what’s new in Microsoft Social Engagement
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 | April 2018 – General Availability                                                                                                                                                                                                                             |

@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Simplified access to entities through foreign key relationships
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 Makers can now write formulas that work seamlessly between entities, following

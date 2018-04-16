@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Spring ’18 summary of what’s new in Talent – Attract
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 | February 2018 - General Availability                                                                                                                                                                                 |

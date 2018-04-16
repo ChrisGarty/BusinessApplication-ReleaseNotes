@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Configurable hiring process
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Configurable hiring process features let customers fit Attract to their unique

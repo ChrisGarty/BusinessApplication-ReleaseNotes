@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Enable self-troubleshooting 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Self-troubleshooting makes it easier for administrators and survey designers to

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Embedded intelligence
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 **Embedded intelligence** (previously known as Relationship Insights) collects,

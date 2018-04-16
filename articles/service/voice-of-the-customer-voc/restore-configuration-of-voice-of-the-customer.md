@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Restore configuration of Voice of the Customer
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Admins can repair or restore the configuration if it is accidentally deleted or

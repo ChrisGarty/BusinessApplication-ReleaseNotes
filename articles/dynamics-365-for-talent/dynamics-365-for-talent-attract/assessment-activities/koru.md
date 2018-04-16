@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Koru
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 Koru is a third-party company that applies predictive analytics to assess,

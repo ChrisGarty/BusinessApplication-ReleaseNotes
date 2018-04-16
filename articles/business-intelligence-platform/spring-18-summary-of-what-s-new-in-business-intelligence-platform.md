@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Spring ’18 summary of what’s new in Business Intelligence Platform
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 | Jan ’18 - General Availability                                                                                                                                                                                                                                                                                                                                                                         |

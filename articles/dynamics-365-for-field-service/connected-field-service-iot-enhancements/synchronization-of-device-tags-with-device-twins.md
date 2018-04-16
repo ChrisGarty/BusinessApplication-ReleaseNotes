@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Synchronization of device tags with device twins
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Device twin tags allow grouping of devices to make them easier to search and

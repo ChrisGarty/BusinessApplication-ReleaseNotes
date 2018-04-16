@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### **SQL S**erver Reporting Services (SSRS) **reports** for Power BI Premium (Public Preview)
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Publish SQL Server Reporting Services (SSRS) reports (\*.RDL format) to a Power

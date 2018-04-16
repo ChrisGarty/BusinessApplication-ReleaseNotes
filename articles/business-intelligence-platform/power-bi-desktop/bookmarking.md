@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Bookmarking
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Create bookmarks in the Power BI Service without first creating a bookmark in

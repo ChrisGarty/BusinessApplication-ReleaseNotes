@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### New documentation landing page
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 We always want to make it easier to learn about Microsoft Flow. There is a lot

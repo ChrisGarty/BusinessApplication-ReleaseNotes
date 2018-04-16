@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Person search report
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The Person search report lets you find a person and their personal data in

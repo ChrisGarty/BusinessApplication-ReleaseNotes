@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Improvements to the SAP BW connector 
 
+[!include[banner](../../includes/banner.md)]
+
+
 -   DirectQuery connector (General Availability)
 
 -   Support for Dimension properties (Key, Short/Medium/Long Text, and custom

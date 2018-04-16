@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Azure Diagnostics
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Azure Diagnostics is the capability within Azure to collect diagnostic data on a

@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Other gateway improvements
 
+[!include[banner](../../includes/banner.md)]
+
+
 Other gateway improvements include:
 
 -   Gateways will automatically fall back on the HTTPS protocol when

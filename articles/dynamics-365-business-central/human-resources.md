@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Human resources
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 **Employees**

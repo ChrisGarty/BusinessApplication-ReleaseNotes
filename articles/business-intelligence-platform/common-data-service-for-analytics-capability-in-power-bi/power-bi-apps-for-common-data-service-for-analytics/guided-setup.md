@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Guided setup
 
+[!include[banner](../../../includes/banner.md)]
+
+
 Power BI Apps are available to users through
 [AppSource](https://appsource.microsoft.com/en-us/). A guided setup experience
 helps users quickly install and set up the app. After users provide a few

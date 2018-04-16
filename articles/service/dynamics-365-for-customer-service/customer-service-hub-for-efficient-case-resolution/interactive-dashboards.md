@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Interactive dashboards
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 Customer Service Hub dashboards are a one-stop workplace where agents and

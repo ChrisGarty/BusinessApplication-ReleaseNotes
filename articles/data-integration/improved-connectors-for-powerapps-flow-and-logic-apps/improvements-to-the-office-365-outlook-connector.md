@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Improvements to the Office 365 Outlook connector
 
+[!include[banner](../../includes/banner.md)]
+
+
 -   New trigger for emails with \@mentions (Public Preview)
 
 -   New action to forward email (Public Preview)

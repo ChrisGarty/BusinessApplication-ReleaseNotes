@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Resources to manage GDPR compliance for your organization
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 [Go to the Trust

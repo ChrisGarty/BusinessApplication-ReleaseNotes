@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### United Kingdom Region
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 We are announcing availability of the United Kingdom region for Microsoft Flow.

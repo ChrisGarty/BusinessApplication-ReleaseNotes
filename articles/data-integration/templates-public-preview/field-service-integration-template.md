@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Field Service Integration template 
 
+[!include[banner](../../includes/banner.md)]
+
+
 The Data Integrator supports scenarios where Dynamics 365 for Field Service
 activities are done outside Dynamics 365 for Finance and Operations.
 Capabilities include:

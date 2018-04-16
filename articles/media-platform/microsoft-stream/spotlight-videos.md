@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Spotlight videos
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Spotlighting capability enables admins to highlight videos on the Stream home

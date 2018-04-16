@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Gauge (Public Preview)
 
+[!include[banner](../../../includes/banner.md)]
+
+
 Gauge lets hiring managers or recruiters create questionnaires and send them to
 candidates as part of an assessment activity. Candidates are informed in their
 candidate app that a new task is waiting for them. They can easily navigate to

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Upgrade automation
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Upgrade automation makes major version upgrades a self-service operation for

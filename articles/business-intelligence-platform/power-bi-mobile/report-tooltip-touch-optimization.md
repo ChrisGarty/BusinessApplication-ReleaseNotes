@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Report tooltip touch optimization
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Users can drag a finger across the visual to explore details about each data

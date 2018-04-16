@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### GDPR compliance
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Microsoft is committed to GDPR compliance across our cloud services, including

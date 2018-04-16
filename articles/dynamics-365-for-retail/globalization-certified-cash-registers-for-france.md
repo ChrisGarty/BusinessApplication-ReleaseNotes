@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Globalization: Certified cash registers for France
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 As of January 1, 2018, all retailers in France must use cash systems certified

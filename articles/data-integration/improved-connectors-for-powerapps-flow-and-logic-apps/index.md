@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Improved connectors for PowerApps, Flow, and Logic Apps
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Connectors provide access to a wide range of data sources in PowerApps, Flow,

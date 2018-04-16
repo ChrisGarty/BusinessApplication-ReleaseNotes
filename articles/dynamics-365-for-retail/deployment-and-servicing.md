@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Deployment and servicing
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 Retail organizations, especially those with globally-distributed operations,

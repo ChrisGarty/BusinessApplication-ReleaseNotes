@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Highlights from the Spring ‘18 release 
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 -   **Evolution of Power Query for data integration** – Use Power Query to

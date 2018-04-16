@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Mobile player for model‑driven apps
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 Run any model‑driven application on the Dynamics 365 mobile player. Applications

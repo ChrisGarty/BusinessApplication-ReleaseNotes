@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Query acceleration for large datasets (Public Preview)
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Users can create

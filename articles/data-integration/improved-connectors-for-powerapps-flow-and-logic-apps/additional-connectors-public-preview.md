@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Additional connectors (Public Preview)
 
+[!include[banner](../../includes/banner.md)]
+
+
 The following connectors, many of which are built by our partners, are also
 available for Public Preview:
 

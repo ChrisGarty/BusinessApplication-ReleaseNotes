@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Custom fields
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Custom fields functionality enables new fields to be added to support additional

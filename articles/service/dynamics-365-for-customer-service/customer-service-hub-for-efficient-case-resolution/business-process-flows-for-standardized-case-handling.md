@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Business process flows for standardized case handling
 
+[!include[banner](../../../includes/banner.md)]
+
+
 Business process flows ensure that agents enter case data consistently and
 follow the same steps every time they interact with a customer.
 

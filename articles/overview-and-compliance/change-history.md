@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Change history
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 The following changes are included in Spring ’18 Release Notes version 18.1.1,

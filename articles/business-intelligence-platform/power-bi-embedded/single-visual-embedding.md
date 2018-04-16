@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Single visual embedding
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 By embedding visuals into your application, users can get in-page analytics

@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Entity forms 
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 Model-driven entity forms are a critical component in any Dynamics 365

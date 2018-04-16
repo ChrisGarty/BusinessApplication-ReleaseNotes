@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Common Data Model and Data Integration
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 The Common Data Model is an open-source definition of standard entities that

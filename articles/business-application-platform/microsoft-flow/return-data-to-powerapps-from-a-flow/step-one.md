@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Step One
 
+[!include[banner](../../../includes/banner.md)]
+
+
 To set up a flow that calls data from PowerApps, first start your flow with the
 PowerApps trigger.
 

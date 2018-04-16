@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Lifecycle Services sandbox self-service automation and RDP lockdown
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Sandbox self-service automation supports data movement, debugging operations,

@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Accessible apps out of the box
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 Model-driven apps are metadata-driven. Core components of the user experience,

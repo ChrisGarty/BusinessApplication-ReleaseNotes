@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Entity views 
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 Model-driven views make it easy for citizen developers and users to quickly

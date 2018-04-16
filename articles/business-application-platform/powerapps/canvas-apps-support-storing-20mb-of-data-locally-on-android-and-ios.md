@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Canvas apps support storing 20mb of data locally on Android and iOS
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Apps using SaveData/LoadData pattern for building offline enabled apps on

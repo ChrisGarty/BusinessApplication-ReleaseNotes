@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Batch balancing enabled for advanced warehousing processes
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Batch balancing is a process where the amount of ingredients to use in a

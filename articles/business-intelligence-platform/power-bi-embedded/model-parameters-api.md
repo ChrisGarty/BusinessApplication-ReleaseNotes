@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Model parameters API
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Users can uses model parameters to define parameters and make them a part of

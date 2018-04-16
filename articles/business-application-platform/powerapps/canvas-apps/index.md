@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Canvas apps
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 You can now build two types of applications with PowerApps: canvas apps and

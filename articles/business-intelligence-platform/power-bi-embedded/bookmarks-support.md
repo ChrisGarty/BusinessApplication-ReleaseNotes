@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Bookmarks support
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 An application can apply bookmarks on the embedded report and control its UI

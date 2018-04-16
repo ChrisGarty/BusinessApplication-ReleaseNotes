@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Extensibility requests
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 If you discover a customization that you can't implement as an extension, you

@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Field Service Analytics
 
+[!include[banner](../../../includes/banner.md)]
+
+
 The Field Service Analytics reports focuses on the dispatcher or scheduler
 persona. The reports cover KPIs that help monitor the effectiveness of field
 service operations. Report pages focus on open and closed work orders, as well

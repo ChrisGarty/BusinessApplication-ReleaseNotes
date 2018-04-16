@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### App-only token support
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Currently, building a Power BI Embedded application (also known as “app owns the

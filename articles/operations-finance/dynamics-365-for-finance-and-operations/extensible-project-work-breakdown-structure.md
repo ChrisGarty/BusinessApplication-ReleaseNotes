@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Extensible project work breakdown structure
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The current hierarchal grid control used for the project work breakdown

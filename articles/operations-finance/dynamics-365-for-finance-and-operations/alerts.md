@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Alerts
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Alerts form a notification system for critical events in Finance and Operations.

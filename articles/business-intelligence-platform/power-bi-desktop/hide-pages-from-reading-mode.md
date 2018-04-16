@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Hide pages from reading mode
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 A report author can hide a page from view of the report consumer until the

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Relationship analytics (Public Preview)
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 **Relationship analytics** helps salespeople manage the opportunities pipeline

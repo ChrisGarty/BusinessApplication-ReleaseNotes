@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Workspaces with Azure AD groups
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Power BI workspaces have their own roles and permissions that are separate from

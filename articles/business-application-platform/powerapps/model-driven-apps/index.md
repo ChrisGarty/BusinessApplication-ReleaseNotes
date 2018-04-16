@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Model-driven apps
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 In addition to the canvas app development that PowerApps has been known for,

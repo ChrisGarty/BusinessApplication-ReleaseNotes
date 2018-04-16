@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Assessment activities 
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 Hiring managers and recruiters can add an assessment activity to the hiring

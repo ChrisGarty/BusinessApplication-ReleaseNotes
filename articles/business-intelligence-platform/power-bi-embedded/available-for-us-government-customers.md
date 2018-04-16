@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Available for US Government customers
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Embedded analytics with Power BI is generally available for Government Community

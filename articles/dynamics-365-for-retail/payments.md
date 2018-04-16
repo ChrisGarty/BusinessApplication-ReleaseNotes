@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Payments
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 Beginning with the Spring ‘18 release, we have made investments to improve

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Vendor collaboration – RFQ process
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Organizations issue requests for quotation (RFQ) when they want to receive

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Globalization: Retail localization for India
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 Retailers in India need to be able to calculate Goods and Services Tax (GST) in

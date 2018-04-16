@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Resource Scheduling Optimization (RSO) enhancements 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Resource Scheduling Optimization (RSO) is an add-on capability for the Dynamics

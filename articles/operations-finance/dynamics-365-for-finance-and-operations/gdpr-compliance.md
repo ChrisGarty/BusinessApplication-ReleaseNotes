@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### GDPR compliance
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Finance and Operations and Lifecycle Services help partners and customers comply

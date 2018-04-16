@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### User experiences for Q&A in reports
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Report authors can enable Q&A experiences for report consumers with suggested

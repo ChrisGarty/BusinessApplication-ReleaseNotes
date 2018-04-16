@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Step Three
 
+[!include[banner](../../../includes/banner.md)]
+
+
 The last step is to add your flow to the PowerApp in the formula bar. Select the
 control to run your flow from, and on the **Action** tab on the ribbon,
 select **Flow**. Select the flow you created to add it to the formula bar and

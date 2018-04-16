@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Smart data preparation capabilities – Add Column from Examples
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 As part of the data transformation capabilities of the Power Query editor, you

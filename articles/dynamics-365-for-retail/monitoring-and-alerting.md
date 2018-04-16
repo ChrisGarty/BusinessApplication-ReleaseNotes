@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Monitoring and alerting
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 Building on existing capabilities related to monitoring of tenant and

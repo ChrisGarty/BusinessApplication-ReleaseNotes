@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Globalization – India localization: Project and upgrade
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Project localization for India lets users manage India Goods and Services Tax

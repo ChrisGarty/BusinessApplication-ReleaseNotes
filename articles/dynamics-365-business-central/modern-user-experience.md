@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Modern user experience
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 With the Spring ’18 release, Dynamics 365 Business Central offers a refreshed

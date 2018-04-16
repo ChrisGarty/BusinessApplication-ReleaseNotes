@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### XMLA connectivity and API parity with Analysis Services
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 ![A diagram demonstrating connectivity of Power BI Premium](media/xmla-connectivity-and-api-parity-with-analysis-services-1.png "A diagram demonstrating connectivity of Power BI Premium")

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Return data to PowerApps from a flow
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 You can use Microsoft Flow to create logic that performs one or more tasks when

@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### High availability and disaster recovery improvements (Public Preview)
 
+[!include[banner](../../includes/banner.md)]
+
+
 High availability for the on-premises data gateway gives administrators a way to
 group multiple gateway instances together. This offers a more robust and
 scalable architecture that eliminates single-point-of-failure risks.

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Predictive lead scoring (Public Preview)
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Predictive lead scoring uses a predictive machine learning model to calculate a

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Spring ’18 summary of what’s new in Data Integration
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 | General Availability                                                                                                            |

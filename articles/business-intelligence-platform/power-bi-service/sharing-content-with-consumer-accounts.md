@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Sharing content with consumer accounts
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 You can share content with other users who have email addresses from consumer

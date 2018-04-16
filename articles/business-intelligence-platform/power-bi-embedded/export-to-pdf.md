@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Export to PDF
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Use APIs to enable the application to export the embedded object to a PDF file.

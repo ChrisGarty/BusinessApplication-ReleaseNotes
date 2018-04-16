@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Add an action to a business process flow
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 You can add an action that triggers a workflow to run processes on your data.

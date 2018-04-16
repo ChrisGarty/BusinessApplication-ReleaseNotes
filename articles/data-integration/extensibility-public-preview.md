@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Extensibility (Public Preview)
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 With the M connector SDK, partners and developers can contribute to the rich

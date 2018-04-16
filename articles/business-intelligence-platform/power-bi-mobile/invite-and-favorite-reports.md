@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Invite and favorite reports
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Users can share reports from the mobile app, similar to the way they share

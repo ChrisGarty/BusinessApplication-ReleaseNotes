@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Updated Power BI visuals
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The embedded Power BI reports have been updated, and new visuals and additional

@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Customer Service Hub for efficient case resolution
 
+[!include[banner](../../../includes/banner.md)]
+
+
 
 
 The Customer Service Hub is designed to empower agents to deliver fast,

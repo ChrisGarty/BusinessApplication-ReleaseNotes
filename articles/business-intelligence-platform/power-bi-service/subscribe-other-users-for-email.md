@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Subscribe other users for email
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Set up email subscriptions for other users so they all receive relevant

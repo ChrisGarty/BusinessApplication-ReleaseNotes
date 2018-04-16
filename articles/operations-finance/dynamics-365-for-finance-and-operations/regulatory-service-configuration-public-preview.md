@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Regulatory service – Configuration<br>(Public Preview)
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 (Available at the end of April) Regulatory service targets a no-code programming

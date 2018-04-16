@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Smart alerts
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Receive automatic alerts when there are important changes to data. A library of

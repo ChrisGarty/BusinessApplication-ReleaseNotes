@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Reason codes added to warehouse counting and adjustment
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 It’s now possible to add a reason code when performing counts and when making an

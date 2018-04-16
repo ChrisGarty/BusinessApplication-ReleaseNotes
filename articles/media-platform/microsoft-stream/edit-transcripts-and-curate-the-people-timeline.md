@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Edit transcripts and curate the people timeline
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Microsoft Stream generates automatic transcripts for videos by using AI to

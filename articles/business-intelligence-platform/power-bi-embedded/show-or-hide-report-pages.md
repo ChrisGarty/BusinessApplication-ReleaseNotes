@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Show or hide report pages 
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 When a report is being embedded in an application, all the pages of the reports

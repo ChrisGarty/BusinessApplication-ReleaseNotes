@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Improved support ticketing for admins
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 The new Business Application Platform Admin center includes a support ticketing

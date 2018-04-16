@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Export to Excel
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Hiring managers can export all the guides they create or contribute to an Excel

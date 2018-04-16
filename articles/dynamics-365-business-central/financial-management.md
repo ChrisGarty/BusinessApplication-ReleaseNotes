@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Financial management
 
+[!include[banner](../includes/banner.md)]
+
+
 
 
 **Basic General Ledger**

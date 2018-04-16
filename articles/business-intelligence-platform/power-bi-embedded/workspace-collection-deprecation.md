@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Workspace collection deprecation
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 In June 2017, we announced the ability to embed Power BI using new APIs and the

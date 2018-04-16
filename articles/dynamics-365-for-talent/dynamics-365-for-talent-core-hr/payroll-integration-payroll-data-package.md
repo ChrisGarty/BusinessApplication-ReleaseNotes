@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Payroll integration/payroll data package
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Plug Talent into your broader HR technology ecosystem by connecting your payroll

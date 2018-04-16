@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Filtering on Data View
 
+[!include[banner](../../includes/banner.md)]
+
+
 In Power BI Desktop, the data view allows users to view individual rows from
 their data set. Power BI now supports Excel like filtering on the data view,
 enabling end users to slice and dice in the data view to get a better

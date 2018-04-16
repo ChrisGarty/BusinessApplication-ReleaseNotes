@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Common Controls Framework (CCF)
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 User interface controls use a Common Controls Framework (CCF) for consistency

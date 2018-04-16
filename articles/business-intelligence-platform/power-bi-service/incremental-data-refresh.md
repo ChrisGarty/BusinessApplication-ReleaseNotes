@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Incremental data refresh
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Organizations can use incremental data refresh to scale datasets to even larger

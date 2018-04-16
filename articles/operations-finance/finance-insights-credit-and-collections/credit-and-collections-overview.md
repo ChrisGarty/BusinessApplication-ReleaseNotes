@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Credit and collections overview
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 Are you providing the right level of credit to the right customers? Is your

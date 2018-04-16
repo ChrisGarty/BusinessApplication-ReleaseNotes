@@ -15,6 +15,9 @@ audience: Admin
 ---
 #### Schedule board list view
 
+[!include[banner](../../includes/banner.md)]
+
+
 
 
 With the Spring ’18 release, the schedule board list view helps users interact
