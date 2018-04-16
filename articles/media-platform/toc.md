@@ -1,0 +1,6 @@
+# [Media Platform](index.md)
+## [Microsoft Stream](microsoft-stream/index.md)
+### [Spring ’18 summary of what’s new in Media Platform](microsoft-stream/spring-18-summary-of-what-s-new-in-media-platform.md)
+### [Spotlight videos](microsoft-stream/spotlight-videos.md)
+### [Edit transcripts and curate the people timeline](microsoft-stream/edit-transcripts-and-curate-the-people-timeline.md)
+### [Cloud recording for meetings in Microsoft Teams](microsoft-stream/cloud-recording-for-meetings-in-microsoft-teams.md)

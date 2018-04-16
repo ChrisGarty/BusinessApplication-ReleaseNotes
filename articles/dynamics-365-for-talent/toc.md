@@ -1,4 +1,4 @@
-# [Talent](index.md)
+# [Dynamics 365 for Talent](index.md)
 ## [Dynamics 365 for Talent – Core HR](dynamics-365-for-talent-core-hr/index.md)
 ### [Spring ’18 summary of what’s new in Talent – Core HR](dynamics-365-for-talent-core-hr/spring-18-summary-of-what-s-new-in-talent-core-hr.md)
 ### [Manager self-service](dynamics-365-for-talent-core-hr/manager-self-service.md)
