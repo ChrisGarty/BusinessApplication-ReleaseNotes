@@ -22,7 +22,7 @@ questions to start from. These same experiences are surfaced in the Power BI
 Service, Power BI Embedded, and Cortana, so users can perform explorations with
 a preferred client.
 
-![A screenshot of the Power BI Desktop Q&A](media/user-experiences-for-q-a-in-reports-1.jpeg "A screenshot of the Power BI Desktop Q&A")
+![A screenshot of the Power BI Desktop Q&A](media/user-experiences-for-q-a-in-reports-1.jpg "A screenshot of the Power BI Desktop Q&A")
 <!-- Picture 2 -->
 
 
