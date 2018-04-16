@@ -19,7 +19,4 @@ Business Application Platform
 [!include[banner](../includes/banner.md)]
 
 
-[!INCLUDE[banner](../includes/banner.md)]
-
-
 

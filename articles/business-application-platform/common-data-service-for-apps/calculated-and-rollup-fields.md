@@ -18,9 +18,6 @@ audience: Admin
 [!include[banner](../../includes/banner.md)]
 
 
-[!INCLUDE[banner](../../includes/banner.md)]
-
-
 
 
 Calculated and rollup fields on Common Data Service for Apps entities make it

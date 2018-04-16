@@ -18,9 +18,6 @@ audience: Admin
 [!include[banner](../../includes/banner.md)]
 
 
-[!INCLUDE[banner](../../includes/banner.md)]
-
-
 
 
 Data stored in the Common Data Service for Apps can be viewed, created, and
