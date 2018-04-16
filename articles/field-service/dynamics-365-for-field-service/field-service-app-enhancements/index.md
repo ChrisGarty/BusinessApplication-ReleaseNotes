@@ -15,6 +15,8 @@ audience: Admin
 ---
 ### Field Service app enhancements
 
+
+
 The Field Service app works in tandem with the customer service application to
 help organizations manage field-based service teams. The Field Service app
 includes these capabilities:

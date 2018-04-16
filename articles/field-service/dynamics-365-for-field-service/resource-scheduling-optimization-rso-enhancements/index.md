@@ -15,6 +15,8 @@ audience: Admin
 ---
 ### Resource Scheduling Optimization (RSO) enhancements 
 
+
+
 Resource Scheduling Optimization (RSO) is an add-on capability for the Dynamics
 365 for Field Service application that enables you to automatically schedule
 work orders for the most appropriate resources, while simultaneously optimizing

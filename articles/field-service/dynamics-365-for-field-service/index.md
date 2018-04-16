@@ -16,6 +16,8 @@ audience: Admin
 Dynamics 365 for Field Service
 ------------------------------
 
+
+
 The Spring ‘18 release of the Field Service application includes resource
 scheduling and optimization improvements, GDPR and accessibility enhancements,
 and a new user experience with the application built on the Unified Interface

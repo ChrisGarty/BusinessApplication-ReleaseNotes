@@ -15,6 +15,8 @@ audience: Admin
 ---
 #### Synchronization of device tags with device twins
 
+
+
 Device twin tags allow grouping of devices to make them easier to search and
 find. Tags for device twins are created in Connected Field Service, and then
 converted into JSON that is understood by a device.

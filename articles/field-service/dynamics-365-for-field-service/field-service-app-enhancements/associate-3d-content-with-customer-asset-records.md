@@ -15,6 +15,8 @@ audience: Admin
 ---
 #### Associate 3D content with customer asset records
 
+
+
 Arm your technicians with 3D content to help them complete repairs. 3D models or
 sequences can be uploaded (directly to Dynamics 365 or hosted externally), and
 then associated with customer asset records for use by technicians within the
