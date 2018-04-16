@@ -16,4 +16,7 @@ audience: Admin
 Business Application Platform
 =============================
 
+[!include[banner](../includes/banner.md)]
+
+
 
