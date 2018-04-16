@@ -4,7 +4,7 @@ title: Universal Resource Scheduling (URS) enhancements
 description: 
 author: MargoC
 manager: AnnBe
-ms.date: 4/13/2018
+ms.date: 4/16/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,8 +14,6 @@ audience: Admin
 
 ---
 ### Universal Resource Scheduling (URS) enhancements 
-
-
 
 Universal Resource Scheduling (URS) provides scheduling capabilities for the
 Customer Service, Field Service, and Project Service apps. Additionally, the

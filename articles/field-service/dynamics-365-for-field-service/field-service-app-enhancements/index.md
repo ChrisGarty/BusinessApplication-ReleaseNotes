@@ -4,7 +4,7 @@ title: Field Service app enhancements
 description: 
 author: MargoC
 manager: AnnBe
-ms.date: 4/13/2018
+ms.date: 4/16/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,8 +14,6 @@ audience: Admin
 
 ---
 ### Field Service app enhancements
-
-
 
 The Field Service app works in tandem with the customer service application to
 help organizations manage field-based service teams. The Field Service app

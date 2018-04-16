@@ -4,7 +4,7 @@ title: Enforce skill level
 description: 
 author: MargoC
 manager: AnnBe
-ms.date: 4/13/2018
+ms.date: 4/16/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,8 +14,6 @@ audience: Admin
 
 ---
 #### Enforce skill level  
-
-
 
 Resource requirements can include not only a skill, but also the level (or
 rating) of the skill required to do the work. By considering the skill (or

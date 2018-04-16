@@ -4,7 +4,7 @@ title: Synchronization of device tags with device twins
 description: 
 author: MargoC
 manager: AnnBe
-ms.date: 4/13/2018
+ms.date: 4/16/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,8 +14,6 @@ audience: Admin
 
 ---
 #### Synchronization of device tags with device twins
-
-
 
 Device twin tags allow grouping of devices to make them easier to search and
 find. Tags for device twins are created in Connected Field Service, and then

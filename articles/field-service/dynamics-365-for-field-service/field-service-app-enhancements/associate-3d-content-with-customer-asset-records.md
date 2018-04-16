@@ -4,7 +4,7 @@ title: Associate 3D content with customer asset records
 description: 
 author: MargoC
 manager: AnnBe
-ms.date: 4/13/2018
+ms.date: 4/16/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -14,8 +14,6 @@ audience: Admin
 
 ---
 #### Associate 3D content with customer asset records
-
-
 
 Arm your technicians with 3D content to help them complete repairs. 3D models or
 sequences can be uploaded (directly to Dynamics 365 or hosted externally), and
