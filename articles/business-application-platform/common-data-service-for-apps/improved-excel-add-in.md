@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Improved Excel add-in 
 
+[!INCLUDE[banner](../../includes/banner.md)]
+
+
 
 
 Data stored in the Common Data Service for Apps can be viewed, created, and

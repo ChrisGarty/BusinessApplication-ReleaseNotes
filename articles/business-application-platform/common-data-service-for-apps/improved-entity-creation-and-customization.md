@@ -15,6 +15,9 @@ audience: Admin
 ---
 ### Improved entity creation and customization 
 
+[!INCLUDE[banner](../../includes/banner.md)]
+
+
 
 
 Creating and customizing Common Data Service for Apps entities from
