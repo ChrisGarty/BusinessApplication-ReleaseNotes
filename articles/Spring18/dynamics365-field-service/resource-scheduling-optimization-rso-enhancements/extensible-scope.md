@@ -1,10 +1,10 @@
 ---
 
 title: Extensible scope
-description: 
+description: The Resource Scheduling Optimization solution uses scope to define the input for resources, resource requirements, and resource bookings, as well as the timeframes used for optimization.
 author: MargoC
 manager: AnnBe
-ms.date: 4/16/2018
+ms.date: 4/18/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -13,12 +13,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-#### Extensible scope 
-
-[!include[banner](../../includes/banner.md)]
+#  Extensible scope 
 
 
 
+
+[!include[banner](../../../includes/banner.md)]
 
 The Resource Scheduling Optimization solution uses scope to define the input for
 resources, resource requirements, and resource bookings, as well as the

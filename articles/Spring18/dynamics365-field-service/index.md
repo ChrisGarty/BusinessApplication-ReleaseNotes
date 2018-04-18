@@ -1,10 +1,10 @@
 ---
 
 title: Dynamics 365 for Field Service
-description: 
+description: The Spring ‘18 release of the Field Service application includes resource scheduling and optimization improvements, GDPR and accessibility enhancements, and a new user experience with the application built on the Unified Interface framework.
 author: MargoC
 manager: AnnBe
-ms.date: 4/16/2018
+ms.date: 4/18/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -13,10 +13,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-Dynamics 365 for Field Service
-------------------------------
+#  Dynamics 365 for Field Service
 
 
+
+
+[!include[banner](../../includes/banner.md)]
 
 The Spring ‘18 release of the Field Service application includes resource
 scheduling and optimization improvements, GDPR and accessibility enhancements,

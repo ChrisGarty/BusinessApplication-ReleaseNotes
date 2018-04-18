@@ -1,10 +1,10 @@
 ---
 
 title: Spring ’18 summary of what’s new in Field Service
-description: 
+description: | April ’18 – Private Preview                                                                                                                                                                                                                                   | |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | Compliance                                                                                                                                                                                                                                                    | | General Data Protection Regulation (GDPR) - Investments address the European privacy law’s requirements.
 author: MargoC
 manager: AnnBe
-ms.date: 4/16/2018
+ms.date: 4/18/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -13,12 +13,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-### Spring ’18 summary of what’s new in Field Service
-
-[!include[banner](../includes/banner.md)]
+#  Spring ’18 summary of what’s new in Field Service
 
 
 
+
+[!include[banner](../../includes/banner.md)]
 
 | April ’18 – Private Preview                                                                                                                                                                                                                                   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -26,27 +26,27 @@ audience: Admin
 | General Data Protection Regulation (GDPR) - Investments address the European privacy law’s requirements. [Go to the Trust Center to learn more and find resources to help you comply.](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx) |
 | Accessibility enhancements - [Go to the Trust Center to learn about our industry‑leading accessibility standards.](https://www.microsoft.com/en-us/trustcenter/compliance/accessibility)                                                                      |
 | Field Service app                                                                                                                                                                                                                                             |
-| [Built on the Unified Interface framework](field-service-app-enhancements/index.md).                                                                                                                                                                                                 |
+| [Built on the Unified Interface framework](field-service-app-enhancements).                                                                                                                                                                                                 |
 | Universal Resource Scheduling (URS) solution                                                                                                                                                                                                                  |
-| [Schedule board list view](universal-resource-scheduling-urs-enhancements/schedule-board-list-view.md).                                                                                                                                                                                                            |
+| [Schedule board list view](universal-resource-scheduling-urs-enhancements).                                                                                                                                                                                                            |
 | Resource Scheduling Optimization (RSO) solution                                                                                                                                                                                                               |
-| [Extensible scope](resource-scheduling-optimization-rso-enhancements/extensible-scope.md).                                                                                                                                                                                                                       |
+| [Extensible scope](resource-scheduling-optimization-rso-enhancements).                                                                                                                                                                                                                       |
 | Connected Field Service (IoT) solution                                                                                                                                                                                                                        |
-| [Built on the Unified Interface framework](connected-field-service-iot-enhancements/built-on-the-unified-interface-framework.md).                                                                                                                                                                                                 |
+| [Built on the Unified Interface framework](connected-field-service-iot-enhancements).                                                                                                                                                                                                 |
 
--   [Common Controls Framework (CCF)](field-service-app-enhancements/common-controls-framework-ccf.md).
+-   [Common Controls Framework (CCF)](field-service-app-enhancements).
 
--   [Associate 3D content with customer asset records](field-service-app-enhancements/associate-3d-content-with-customer-asset-records.md).
+-   [Associate 3D content with customer asset records](field-service-app-enhancements).
 
--   [Run as a simulation](resource-scheduling-optimization-rso-enhancements/run-as-a-simulation.md).
+-   [Run as a simulation](resource-scheduling-optimization-rso-enhancements).
 
--   [Enforce skill level](resource-scheduling-optimization-rso-enhancements/enforce-skill-level.md).
+-   [Enforce skill level](resource-scheduling-optimization-rso-enhancements).
 
 -   [Synchronization of device conditions and properties with device
-    twins](connected-field-service-iot-enhancements/synchronization-of-device-conditions-and-properties-with-device-twins.md).
+    twins](connected-field-service-iot-enhancements).
 
 -   [Synchronization of device tags with device
-    twins](connected-field-service-iot-enhancements/synchronization-of-device-conditions-and-properties-with-device-twins.md_1).
+    twins](connected-field-service-iot-enhancements_1).
 
 -   [Configuration of device properties and commands through device
-    categories](connected-field-service-iot-enhancements/configuration-of-device-properties-and-commands-through-device-categories.md).
+    categories](connected-field-service-iot-enhancements).

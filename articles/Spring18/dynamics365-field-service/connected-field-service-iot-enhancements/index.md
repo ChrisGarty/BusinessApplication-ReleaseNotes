@@ -1,10 +1,10 @@
 ---
 
 title: Connected Field Service (IoT) enhancements
-description: 
+description: Connected Field Service helps service organizations proactively detect, troubleshoot, and resolve service issues so a technician is dispatched only when necessary.
 author: MargoC
 manager: AnnBe
-ms.date: 4/16/2018
+ms.date: 4/18/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -13,12 +13,12 @@ ms.author: margoc
 audience: Admin
 
 ---
-### Connected Field Service (IoT) enhancements
-
-[!include[banner](../../includes/banner.md)]
+#  Connected Field Service (IoT) enhancements
 
 
 
+
+[!include[banner](../../../includes/banner.md)]
 
 Connected Field Service helps service organizations proactively detect,
 troubleshoot, and resolve service issues so a technician is dispatched only when
