@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 With the Spring ’18 release, investments address General Data Protection
 Regulation (GDPR) requirements. [Go to the Trust Center to learn more and find

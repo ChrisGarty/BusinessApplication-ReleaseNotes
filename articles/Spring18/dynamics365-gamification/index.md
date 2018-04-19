@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 With the Gamification solution, organizations can set up competitions that
 incentivize employees to meet business goals. When employees achieve pre-defined
