@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 At launch, Dynamics 365 Business Central is available in 14 markets:
 

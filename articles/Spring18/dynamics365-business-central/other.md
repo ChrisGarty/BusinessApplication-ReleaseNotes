@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 With Essential licensing, you also have access to a wide range of capabilities
 that go across the various business areas.

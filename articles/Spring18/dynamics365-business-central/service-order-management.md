@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 With **Premium licensing**, you get access to service management capabilities.
 

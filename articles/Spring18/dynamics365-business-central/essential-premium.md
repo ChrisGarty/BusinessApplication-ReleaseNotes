@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Dynamics 365 Business Central is available at two price points: **Essential**
 and **Premium**.

@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 With the Spring ’18 release, Dynamics 365 Business Central brings the full power
 of Dynamics NAV to the cloud in 14 countries or regions and replaces

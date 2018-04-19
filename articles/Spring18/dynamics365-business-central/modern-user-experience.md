@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 With the Spring ’18 release, Dynamics 365 Business Central offers a refreshed
 and modern user experience, optimized for insights and productivity.
