@@ -57,7 +57,6 @@
 #### [Add multiple records to array inputs](business-application-platform/microsoft-flow/add-multiple-records-to-array-inputs.md)
 #### [Test flows with previous run data](business-application-platform/microsoft-flow/test-flows-previous-run-data.md)
 #### [Access flow details with the workflow() expression](business-application-platform/microsoft-flow/access-flow-details-the-workflow-expression.md)
-
 ## [Data Integration](data-integration/index.md)
 #### [Common Data Model and Data Integration](data-integration/common-data-model-data-integration.md)
 #### [Highlights from the Spring ‘18 release](data-integration/highlights-the-spring-18-release.md)
