@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Most customers customize our product to support their business process. We made
 major enhancements in our retail extensibility framework to simplify the

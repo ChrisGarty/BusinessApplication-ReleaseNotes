@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Building on existing capabilities related to monitoring of tenant and
 system-wide availability and reliability, this release extends these

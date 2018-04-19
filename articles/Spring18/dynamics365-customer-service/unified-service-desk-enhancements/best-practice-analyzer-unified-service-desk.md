@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Best practice analyzer is a developer tool that identifies defects in
 customizations and extensions, to help developers build and deploy efficient

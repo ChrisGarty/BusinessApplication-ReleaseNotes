@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Use landing pages to invite contacts to register with your organization and
 generate leads based on those submissions. An automated, rule-based lead scoring

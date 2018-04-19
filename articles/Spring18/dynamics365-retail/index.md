@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The focus of the Spring ‘18 release for Retail includes an investment in service
 hardening and enabling new capabilities that drive our integrated and

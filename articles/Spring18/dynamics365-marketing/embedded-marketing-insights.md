@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The system continuously collects customer-interaction data, keeps records of
 marketing activities, and holds financial details. View targeted analytical

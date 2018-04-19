@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Customer Service Hub dashboards are a one-stop workplace where agents and
 supervisors review their workload and take actions to resolve issues. Dashboards

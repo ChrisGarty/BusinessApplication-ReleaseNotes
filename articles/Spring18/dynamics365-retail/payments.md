@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Beginning with the Spring ‘18 release, we have made investments to improve
 tolerance when connecting to payment providers over unreliable networks. This

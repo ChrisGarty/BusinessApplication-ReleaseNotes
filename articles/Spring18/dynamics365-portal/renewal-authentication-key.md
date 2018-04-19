@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Dynamics 365 Portal connects to an organization using an authentication key
 linked to Azure Active Directory. The authentication key expires every two

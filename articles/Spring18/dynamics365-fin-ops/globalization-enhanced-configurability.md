@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Configurability of globalization features lets partners and customers do
 customizations without coding. We continue to extend not only the depth of

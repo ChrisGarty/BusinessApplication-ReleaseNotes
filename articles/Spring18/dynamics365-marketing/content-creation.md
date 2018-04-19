@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Create modern online content, including visually rich email messages, landing
 pages, and forms using intuitive, graphical digital content designers. Marketers

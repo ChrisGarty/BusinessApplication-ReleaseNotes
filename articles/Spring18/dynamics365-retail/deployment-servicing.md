@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Retail organizations, especially those with globally-distributed operations,
 often find it challenging to pick a single maintenance window that is

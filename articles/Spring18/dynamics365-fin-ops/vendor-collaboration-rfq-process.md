@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Organizations issue requests for quotation (RFQ) when they want to receive
 competitive offers from several vendors for the items or services that they must

@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 We have added service monitoring and alerting for core business processes, and
 improved the form load performance of the most commonly used forms. We have also

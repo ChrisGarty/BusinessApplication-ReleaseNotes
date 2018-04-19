@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Batch balancing is a process where the amount of ingredients to use in a
 production batch is calculated from the concentration of active ingredients in

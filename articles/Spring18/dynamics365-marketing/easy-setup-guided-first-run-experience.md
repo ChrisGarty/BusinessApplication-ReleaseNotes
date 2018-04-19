@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Get started quickly with Dynamics 365 for Marketing, whether you set up a trial
 or add the application to your production organization. The first-run experience

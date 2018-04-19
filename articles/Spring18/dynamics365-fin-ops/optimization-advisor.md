@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Optimization advisor provides added visibility and intelligence in your business
 operations to improve efficiency. This system, which is available to business

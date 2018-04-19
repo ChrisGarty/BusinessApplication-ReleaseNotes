@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 At times, the project resource manager might not have resources available to
 start on a project task's start date, or the requested resource might be

@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 If you discover a customization that you can't implement as an extension, you
 can log a request to Microsoft to add appropriate extension support to the

@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Project localization for India lets users manage India Goods and Services Tax
 (GST) for the Project management and accounting module. Users can maintain India

@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 As of January 1, 2018, all retailers in France must use cash systems certified
 per the NF525 requirements. The requirements cover inalterability, security,

@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Retail organizations often find it challenging to maintain connectivity
 everywhere at all times. It can be a disruptive and daunting task to manage and

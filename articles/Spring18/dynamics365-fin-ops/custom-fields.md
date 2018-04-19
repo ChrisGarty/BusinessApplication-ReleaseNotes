@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Although Finance and Operations provides an extensive set of fields out of the
 box for managing a broad range of business processes, customers sometimes need

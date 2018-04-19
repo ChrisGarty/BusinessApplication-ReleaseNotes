@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The current hierarchal grid control used for the project work breakdown
 structure is being deprecated and replaced with a standard grid that is enhanced

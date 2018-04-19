@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Create automated multichannel campaigns using the graphical and extensible
 customer journey designer. Each journey establishes a target market segment and

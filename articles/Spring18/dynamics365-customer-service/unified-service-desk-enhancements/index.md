@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Unified Service Desk for Dynamics 365 provides a configurable framework for
 building call center applications that deliver a unified view of customer data

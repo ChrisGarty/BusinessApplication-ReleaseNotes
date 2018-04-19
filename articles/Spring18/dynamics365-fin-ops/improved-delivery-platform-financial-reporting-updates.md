@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Starting April 1, 2018, platform and financial reporting updates will be
 continual updates managed by Microsoft rather than optional updates. This change

@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Data integration supports scenarios where Field Service activities are done
 outside Finance and Operations. Functionality includes: 

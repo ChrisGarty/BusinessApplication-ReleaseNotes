@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 If you are an Operations Manager or a cost accountant who wants to optimize your
 supply chain performance as well as manage costs, Analytical workspaces in Cost

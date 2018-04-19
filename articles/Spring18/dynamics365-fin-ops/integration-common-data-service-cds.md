@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Dynamics 365 for Finance and Operations has enabled cross-application business
 processes between Finance and Operations and Dynamics 365 for Field Service and

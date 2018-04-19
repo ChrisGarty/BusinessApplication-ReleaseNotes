@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The Person search report lets you find a person and their personal data in
 Finance and Operations. (The report is also available for Dynamics 365 for

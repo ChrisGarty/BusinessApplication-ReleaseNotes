@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Interactive Service Hub is a web-based customer service application included
 with Dynamics CRM Online 2016 Update 1 and Microsoft Dynamics CRM 2016.

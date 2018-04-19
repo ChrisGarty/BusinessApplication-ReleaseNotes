@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The customer data sent to and processed by Dynamics 365 Portal can be configured
 to address requirements of the General Data Protection Regulation (GDPR) adopted

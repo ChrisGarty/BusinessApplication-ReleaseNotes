@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 This functionality supports scenarios where load planning from a transportation
 department can’t affect loads that are planned for a single truck or a specific

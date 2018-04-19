@@ -16,7 +16,7 @@ audience: Admin
 #  Timeline view of customer interactions and activities 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Capture customer interactions and communications by adding them as activities in
 the timeline section of the dashboard. The timeline section presents a unified

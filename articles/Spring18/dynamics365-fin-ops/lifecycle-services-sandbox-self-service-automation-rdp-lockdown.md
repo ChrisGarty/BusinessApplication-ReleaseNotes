@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Sandbox self-service automation supports data movement, debugging operations,
 monitoring, and diagnostics without requiring access to the sandbox environments

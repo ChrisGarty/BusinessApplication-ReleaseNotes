@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 End-of-day processing is a crucial element of retail operational workflow. This
 involves aggregation of raw transactions into meaningful business data to ensure

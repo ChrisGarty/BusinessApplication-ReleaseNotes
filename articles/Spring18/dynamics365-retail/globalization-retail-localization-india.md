@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Retailers in India need to be able to calculate Goods and Services Tax (GST) in
 their POS solutions, and to post GST in Retail headquarters. Dynamics 365 for

@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Finance and Operations and Lifecycle Services help partners and customers comply
 with General Data Protection Regulation (GDPR). GDPR investments address the

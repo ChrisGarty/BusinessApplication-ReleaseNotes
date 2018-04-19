@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 This feature is available to customers who have purchased Finance and Operations
 and who have implementation projects that have a production environment deployed

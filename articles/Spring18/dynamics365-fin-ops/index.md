@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The Spring ‘18 release of Dynamics 365 for Finance and Operations delivers
 enhancements in system performance, servicing, reliability, and extensibility.

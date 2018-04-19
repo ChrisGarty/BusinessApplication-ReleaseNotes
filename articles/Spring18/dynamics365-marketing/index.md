@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Dynamics 365 for Marketing delivers comprehensive capabilities for creating and
 running multi‑channel campaigns to generate leads for your sales team using

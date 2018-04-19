@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Upgrade automation makes major version upgrades a self-service operation for
 customers, using LCS for non-production environments. Upgrade automation

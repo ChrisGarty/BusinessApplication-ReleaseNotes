@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 You can share the customer and vendor tables and many related tables across
 multiple legal entities. Although data sharing was already available under

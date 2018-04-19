@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The project resource manager can view and edit the default hours as part of the
 project booking fulfillment process. By default, the system fulfills a resource

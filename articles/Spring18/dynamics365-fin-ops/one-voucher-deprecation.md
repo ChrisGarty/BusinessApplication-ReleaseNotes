@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The existing functionality for financial journals (general journal, fixed asset
 journal, vendor payment journal, and so on) lets you enter multiple subledger

@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Project timesheet is a mobile app that lets employees create and submit project
 timesheets to record their hours for a specific project. Employees can create a

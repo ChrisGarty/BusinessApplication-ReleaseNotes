@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 We have added support for embedding PowerApps in Finance and Operations
 workspaces and forms. Users can pin Microsoft PowerApps to forms and share them

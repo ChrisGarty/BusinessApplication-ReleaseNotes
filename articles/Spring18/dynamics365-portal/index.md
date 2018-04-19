@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 With the Spring ’18 release, the search experience includes the ability to
 search within attachments. In addition, improved debugging makes troubleshooting

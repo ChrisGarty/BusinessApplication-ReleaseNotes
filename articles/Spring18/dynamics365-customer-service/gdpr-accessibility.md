@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 General Data Protection Regulation (GDPR) investments address the European
 privacy law’s requirements. [Go to the Trust Center to learn more and find

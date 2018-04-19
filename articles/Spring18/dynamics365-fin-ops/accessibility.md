@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Building on top of a comprehensive accessibility foundation, Finance and
 Operations provides accessibility support by performing self-validation and

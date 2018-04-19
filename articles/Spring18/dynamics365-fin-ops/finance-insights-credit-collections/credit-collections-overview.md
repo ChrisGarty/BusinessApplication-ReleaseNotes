@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Are you providing the right level of credit to the right customers? Is your
 organization collecting efficiently and effectively? Credit and collections

@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 The Spring ’18 release delivers investments in user experience, performance,
 developer productivity, and compliance across the Customer Service Hub,

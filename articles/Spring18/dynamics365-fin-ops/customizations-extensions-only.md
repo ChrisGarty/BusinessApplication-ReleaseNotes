@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 In the Spring '18 release, we’ve continued our work to allow our application
 code base be customized only through extensions. We are removing the ability to

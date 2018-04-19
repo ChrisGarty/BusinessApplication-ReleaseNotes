@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Immediate replenishment is used during wave execution if allocation fails for a
 location directive line that has a replenishment template. Instead of having to

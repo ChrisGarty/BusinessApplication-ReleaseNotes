@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 The Customer Service Hub is designed to empower agents to deliver fast,
 personalized service and support. With interactive dashboards, guided business

@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../../includes/banner.md)]
 
 Unified Interface apps integrate with Unified Service Desk to provide consistent
 user experiences for session management, customizable layouts, agent guidance,

@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 It’s now possible to add a reason code when performing counts and when making an
 adjustment. This allows the warehouse manager and the controller to have a

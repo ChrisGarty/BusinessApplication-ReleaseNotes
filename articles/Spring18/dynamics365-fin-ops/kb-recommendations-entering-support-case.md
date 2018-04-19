@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 When a user creates a support case, the LCS support workflow populates possible
 issue solutions in Issue Search based on the user's selection and input, and

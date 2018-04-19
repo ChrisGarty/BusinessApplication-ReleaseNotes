@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Finance and Operations customers can use Dynamics 365 for Talent to manage their
 people. The integration provides the ability to integrate appropriate HR

@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Alerts form a notification system for critical events in Finance and Operations.
 You can use alerts to stay informed about events that you want to track during

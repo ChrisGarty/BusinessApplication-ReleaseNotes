@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Dynamics 365 Portal provides detailed, contextual error information and
 diagnostic logging, and enables developers to define custom error messages for

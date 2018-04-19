@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 Organizations often find it challenging to predict when a customer will pay
 their invoices. This lack of insight can lead to inaccurate cash flow forecasts,

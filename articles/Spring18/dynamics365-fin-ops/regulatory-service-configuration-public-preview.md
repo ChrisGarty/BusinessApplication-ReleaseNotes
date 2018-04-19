@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 (Available at the end of April) Regulatory service targets a no-code programming
 approach, allowing users to configure Electronic reporting formats or tax rules

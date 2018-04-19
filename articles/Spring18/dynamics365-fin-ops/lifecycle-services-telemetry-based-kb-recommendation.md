@@ -18,7 +18,7 @@ audience: Admin
 
 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[banner](../../includes/banner.md)]
 
 LCS has been extended to include telemetry-driven KB recommendations to
 customers. The goal of this functionality is to help us understand the extent to
