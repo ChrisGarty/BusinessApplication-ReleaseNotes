@@ -1,4 +1,13 @@
 # Spring '18'
+## [Release overview](release-overview.md)
+## [How to use these release notes](how-to-use-these-release-notes.md)
+## [Your feedback matters](your-feedback-matters.md)
+## [Change history](change-history.md)
+## [GDPR and accessibility](gdpr-accessibility/index.md)
+### [Data protection and security](gdpr-accessibility/data-protection-security/index.md)
+### [General Data Protection Regulation](gdpr-accessibility/data-protection-security/general-data-protection-regulation.md)
+### [Resources to manage GDPR compliance for your organization](gdpr-accessibility/data-protection-security/resources-to-manage-gdpr-compliance-your-organization.md)
+### [Accessibility](gdpr-accessibility/accessibility.md)
 ## [Business Application Platform](business-application-platform/index.md)
 ### [PowerApps](business-application-platform/powerapps/index.md)
 #### [Spring '18 summary of what’s new in PowerApps](business-application-platform/powerapps/whats-new-powerapps.md)
