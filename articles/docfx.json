@@ -35,12 +35,12 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/business-applications-release-notes/breadcrumb/toc.json",
+      "breadcrumb_path": "/sbox-busapp-relnote/breadcrumb/toc.json",
       "extendBreadcrumb": true
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "business-applications-release-notes",
+    "dest": "sbox-busapp-relnote",
     "markdownEngineName": "markdig"
   }
 }
